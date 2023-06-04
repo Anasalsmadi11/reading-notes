@@ -8,3 +8,4 @@
 
 |day 1|[class-1.md](class-01.md)|
 |----|------|
+|day 1|[class-2.md](class-02.md)|
