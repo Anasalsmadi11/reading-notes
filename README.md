@@ -15,3 +15,4 @@
 |day 3|[classes-routes.md](classes-routes.md)|
 |day 4|[Linked-Lists-big-O.md](Linked-Lists-big-O.md)|
 |day 5|[data-modeling.md](data-modeling.md)|
+|day 6|[ authentication.md]( authentication.md)|
