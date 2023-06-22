@@ -17,3 +17,4 @@
 |day 5|[data-modeling.md](data-modeling.md)|
 |day 6|[ authentication.md]( authentication.md)|
 |day 7|[Bearer-Authorization.md](Bearer-Authorization.md)|
+|day 7|[acl.md](acl.md)|
