@@ -20,3 +20,4 @@
 |day 7|[acl.md](acl.md)|
 |day 8|[Authorization-Authentication](Authorization-Authentication)|
 |day 8|[Event Driven Applications](./EDA.md)|
+|day 8|[Stacks and Queues](/Stacks-and-Queues.md)|
