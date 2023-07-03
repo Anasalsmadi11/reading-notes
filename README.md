@@ -17,7 +17,7 @@
 |day 5|[data-modeling.md](data-modeling.md)|
 |day 6|[ authentication.md]( authentication.md)|
 |day 7|[Bearer-Authorization.md](Bearer-Authorization.md)|
-|day 7|[acl.md](acl.md)|
-|day 8|[Authorization-Authentication](Authorization-Authentication)|
-|day 8|[Event Driven Applications](./EDA.md)|
-|day 8|[Stacks and Queues](/Stacks-and-Queues.md)|
+|day 8|[acl.md](acl.md)|
+|day 9|[Authorization-Authentication](Authorization-Authentication)|
+|day 10|[Event Driven Applications](./EDA.md)|
+|day 11|[Stacks and Queues](/Stacks-and-Queues.md)|
