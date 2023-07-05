@@ -1,6 +1,6 @@
 # Socket.io
 
-[Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
+## [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
 
 
 ### What is a Web Socket?
