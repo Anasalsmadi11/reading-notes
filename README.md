@@ -25,3 +25,4 @@
 |day 13|[Message Queues](/Message-Queues.md)|
 |day 14|[Event Driven Applications](/%20EDArcheticture.md)|
 |day 15|[Trees](/Trees.md)|
+|day 16|[AWS: Cloud Servers](/AWS-Cloud-Servers.md)|
