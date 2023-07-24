@@ -27,5 +27,5 @@
 |day 15|[Trees](/Trees.md)|
 |day 16|[AWS: Cloud Servers](/AWS-Cloud-Servers.md)|
 |day 17|[AWS:S3 and Lambda](/S3-and-Lambda.md)|
-|day 19|[AWS: Events](/AWS:Events.md)|
-|day 18|[AWS: API, Dynamo and Lambda](/AWS:API.md)|
+|day 18|[AWS: Events](/AWS:Events.md)|
+|day 19|[AWS: API, Dynamo and Lambda](/AWS:API.md)|
