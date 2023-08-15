@@ -30,5 +30,6 @@
 |day 18|[AWS: Events](/AWS:Events.md)|
 |day 19|[AWS: API, Dynamo and Lambda](/AWS:API.md)|
 |FRONT END READING|
-|day 26|[AWS: API, Dynamo and Lambda](/AWS:API.md)|
+|day 26|[component based UI](/ComponentBasedUI.md)|
+|day 27|[useState()](/useState.md)|
 
