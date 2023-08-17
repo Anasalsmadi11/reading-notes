@@ -32,4 +32,5 @@
 |FRONT END READING|
 |day 26|[component based UI](/ComponentBasedUI.md)|
 |day 27|[useState()](/useState.md)|
+|day 28|[useEffect()](/useEffect.md)|
 
