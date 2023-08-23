@@ -33,5 +33,7 @@
 |day 26|[component based UI](/ComponentBasedUI.md)|
 |day 27|[useState](/useState.md)|
 |day 28|[useEffect](/useEffect.md)|
-|day 28|[useReduce](/useReduce.md)|
+|day 29|[useReduce](/useReduce.md)|
+|day 30|[Hash Tables](/hashTables.md)|
+|day 31|[Context API](/context-Api.md)|
 
