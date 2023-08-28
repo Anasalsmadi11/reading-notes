@@ -36,4 +36,5 @@
 |day 29|[useReduce](/useReduce.md)|
 |day 30|[Hash Tables](/hashTables.md)|
 |day 31|[Context API](/context-Api.md)|
+|day 32|[Context API - Behaviors](/Context%20API-Behaviors.md)|
 
