@@ -40,4 +40,5 @@
 |day 33|[Graphs](/Graphs.md)|
 |day 34|[Login && Auth](/login-Auth.md)|
 |day 35|[API Integration](/API-Integration.md)|
+|day 36|[Application State with Redux](/Redux.md)|
 
