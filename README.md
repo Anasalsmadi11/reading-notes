@@ -42,4 +42,5 @@
 |day 35|[API Integration](/API-Integration.md)|
 |day 36|[Application State with Redux](/Redux.md)|
 |day 37|[Redux - Combined Reducers](./Combined-Reducers.md)|
+|day 38|[Redux - Asynchronous Actions](./Redux-Asynchronous.md)|
 
