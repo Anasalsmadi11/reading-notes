@@ -43,4 +43,5 @@
 |day 36|[Application State with Redux](/Redux.md)|
 |day 37|[Redux - Combined Reducers](./Combined-Reducers.md)|
 |day 38|[Redux - Asynchronous Actions](./Redux-Asynchronous.md)|
+|day 39|[Redux - Additional Topics](./%20Redux%20-Additional%20Topics.md)|
 
